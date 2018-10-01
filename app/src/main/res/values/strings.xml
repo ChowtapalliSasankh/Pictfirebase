@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pictfirebase</string>
+    <string name="upload">Upload</string>
+    <string name="title_activity_splashscreen">splashscreen</string>
+</resources>

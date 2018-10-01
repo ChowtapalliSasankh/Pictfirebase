@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "766465207063",
+    "firebase_url": "https://pictfirebase.firebaseio.com",
+    "project_id": "pictfirebase",
+    "storage_bucket": "pictfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766465207063:android:cb7e8113b694a285",
+        "android_client_info": {
+          "package_name": "com.example.home.Pictfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766465207063-m0l4g3cfj5osm77d2ruo2mh952pc9s1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home.Pictfirebase",
+            "certificate_hash": "a64bff95c692881313e416e0338b40b636f07a38"
+          }
+        },
+        {
+          "client_id": "766465207063-7f2i6fbatpia07p3l9l8e5tu6a3rpnar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgM64wsAPJEYL63Amms0DotBVvxh2W4yk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766465207063-7f2i6fbatpia07p3l9l8e5tu6a3rpnar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
